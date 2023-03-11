@@ -1,0 +1,21 @@
+.list-item-container {
+  height: 35px;
+  margin-right: 10px;
+  margin-bottom: 10px;
+}
+
+.tag-buttons {
+  border: 1px solid #f3aa4e;
+  border-radius: 35px;
+  padding: 10px;
+  color: #ffffff;
+  font-size: 16px;
+  font-family: 'Roboto';
+  outline: none;
+  background-color: transparent;
+  cursor: pointer;
+}
+
+.active-button {
+  background-color: #f3aa4e;
+}
